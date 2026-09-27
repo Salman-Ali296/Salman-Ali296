@@ -1,3 +1,5 @@
+<img width="2056" height="765" alt="ChatGPT Image Sep 21, 2026, 10_46_47 PM" src="https://github.com/user-attachments/assets/fb20740b-d6b8-42f4-bc72-07bca9d268a3" />
+
 # 💫 About Me:
 I build scalable web applications and AI-powered products with React, Next.js, TypeScript, Python, Django, Node.js, PostgreSQL, MongoDB, and LLM technologies.
 Currently building intelligent applications and learning advanced AI engineering, AI agents, API architecture, and scalable system design. I focus on turning ideas into production-ready software with clean architecture, strong performance, and a practical user experience.
