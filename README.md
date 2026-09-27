@@ -1,8 +1,17 @@
-<img width="2056" height="765" alt="ChatGPT Image Sep 21, 2026, 10_46_47 PM" src="https://github.com/user-attachments/assets/fb20740b-d6b8-42f4-bc72-07bca9d268a3" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/fb20740b-d6b8-42f4-bc72-07bca9d268a3" 
+    alt="Salman Ali - Full Stack Developer & AI Engineer"
+    width="100%"
+    height="380px"
+  />
+</p>
 
-# 💫 About Me:
-I build scalable web applications and AI-powered products with React, Next.js, TypeScript, Python, Django, Node.js, PostgreSQL, MongoDB, and LLM technologies.
-Currently building intelligent applications and learning advanced AI engineering, AI agents, API architecture, and scalable system design. I focus on turning ideas into production-ready software with clean architecture, strong performance, and a practical user experience.
+# 💫 About Me
+
+Full-Stack Developer & AI Engineer building **scalable web applications and AI-powered products** with **React, Next.js, TypeScript, Python, Django, Node.js, PostgreSQL, MongoDB, and LLMs**.
+
+Currently building **AI-powered systems and intelligent agents**.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/salmandevelopor25.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/salmanrizwan2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salman_rizwan_368) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-ali-836033358) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Salmanrizwan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/salmanrizwan509) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/salman-ali) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@salman_aura_vibez) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Salman-Ali-the-encoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmandevelopor@gmail.com) 
